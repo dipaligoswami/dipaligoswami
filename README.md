@@ -1,152 +1,195 @@
-<h1 align="center">
- 👋 Hi, I'm Dipali !
-</h1>
- 
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;Full-Stack+Developer" > 
-</p>
+<div align="center">
 
+# Hi, I'm Dipali Goswami 👋
 
-</br> 
+### SDET | QA Automation Engineer | Playwright & TypeScript
 
-<a href="#"><img  width="100%" height="auto" src="https://www.interviewbit.com/blog/wp-content/uploads/2021/08/2.jpg" height="150px"/></a>
+**Building reliable tests. Finding meaningful bugs. Improving software quality.**
 
 
+<a href="https://github.com/dipaligoswami">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=500&lines=QA+Automation+Engineer;Playwright+%7C+TypeScript+%7C+Cypress;Quality+through+Automation;Exploring+AI-Assisted+Testing" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on Frontend technologies 😅
-- 👨‍💻 I’m currently learning HTML, CSS, JavaScript, SQL, ReactJS at Masai School.
-- 💬 Ask me about HTML, CSS, JavaScript, SQL, ReactJS
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- 👨‍💻 This is [My Portfolio]()
+<br/>
 
--  📄 This is [My Resume](https://drive.google.com/file/d/1u3FtzJvFsNS9Cp1XaHkLcKwwuWPRcdSs/view?usp=sharing)
-- 📫 How to reach me: ...dipagoswami00@gmail.com
+<a href="https://github.com/dipaligoswami">
+  <img src="https://img.shields.io/badge/GitHub-dipaligoswami-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/dipali-goswami-441525184/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="mailto:dipagoswami00@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
+</div>
 
+---
 
+## 👩‍💻 About Me
 
+I'm a **QA Automation Engineer** passionate about building maintainable test automation and delivering dependable software.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- 🧪 Hands-on experience with **Playwright, TypeScript and Cypress**.
+- 🏗️ Built Playwright automation from scratch using the **Page Object Model (POM)**.
+- 🔍 Experienced in functional, regression, smoke, sanity and end-to-end testing.
+- 🔗 Familiar with API testing using Postman and database validation using SQL.
+- ⚙️ Working with Git, GitHub Actions and CI/CD workflows.
+- 🚀 Currently advancing my Playwright skills across UI and API testing, exploring **AI-assisted testing** and deepening my knowledge of performance testing with JMeter.
 
-<!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
+I believe good testing goes beyond finding bugs — it's about preventing failures, understanding risks and building confidence in every release.
 
+---
 
-<!-- <img align="right"  src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif"> -->
+## 🛠️ Tech Stack
 
+<div align="center">
 
-<!--   <summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary> -->
-<!--   <br/> -->
-   <a href="https://github.com/dipaligoswami"><img alt="Dipali's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dipaligoswami&custom_title=Dipali's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+🌐 Web Automation
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipaligoswami" alt="Dipali" /></a></p>
+🔌 API & Performance
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 
+💻 Programming
 
-<p align='center'>
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 
+⚙️ Frameworks & Automation Practices
 
+<img src="https://img.shields.io/badge/Page_Object_Model-4B5563?style=for-the-badge" alt="Page Object Model"/>
+<img src="https://img.shields.io/badge/Fixtures-4479A1?style=for-the-badge" alt="Fixtures"/>
+<img src="https://img.shields.io/badge/Assertions-7057FF?style=for-the-badge" alt="Assertions"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+🔄 CI/CD & Version Control
 
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
 
- <h2> 📊 Github Stats ....</h2>
-<p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipaligoswami&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dipaligoswami&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dipaligoswami&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dipaligoswami&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dipaligoswami&theme=solarized_dark&utcOffset=8">
-	
-</p>
+🐛 Testing & Database
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://img.shields.io/badge/Manual_Testing-0A7EA4?style=for-the-badge" alt="Manual Testing"/>
+<img src="https://img.shields.io/badge/Regression_Testing-0A7EA4?style=for-the-badge" alt="Regression Testing"/>
+<img src="https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge" alt="API Testing"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 
+</div>
+## 🚀 What I Work On
 
-<h2 align="left"> 💻 Languages and Tools:</h2>
+<details open>
+<summary><b>🎭 Playwright + TypeScript Automation</b></summary>
 
-<table align="center">
-   <td align="center" width="96">
-      <a href="#html5">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
-      </a>
-      <br>Html5
-    </td>
-       <td align="center" width="96">
-      <a href="#css3">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
-      </a>
-      <br>CSS3
-    </td>
-      <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://img.icons8.com/color/344/javascript--v1.png" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>JavaScript
-    </td>
-  </tr>
-   <tr>
-      <td align="center" width="96">
-      <a href="#react" >
-        <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="48" height="48" alt="react" />
-      </a>
-      <br>React
-    </td>
-      <td align="center" width="96">
-      <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-      <td align="center"  width="96">
-      <a href="#vscode">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
-      </a>
-      <br>VS Code
-    </td>
-      <td align="center" width="96">
-      <a href="#postman" >
-        <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Netlify
-    </td>
+- Creating and maintaining UI automation tests.
+- Organizing test code with reusable page objects and fixtures.
+- Validating user workflows and application behaviour.
+- Debugging failures using screenshots and traces.
+- Improving test reliability and maintainability.
 
-  </tr>
-</table>
+</details>
 
+<details>
+<summary><b>🌲 Cypress Automation</b></summary>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- Automating web application workflows.
+- Writing assertions and validating UI behaviour.
+- Supporting regression and functional test coverage.
 
-## 📊 My Github Stats
+</details>
 
-<p align="left" style="margin-right:0px;padding-right:0px">
-<img src="https://github-readme-stats.vercel.app/api?username=dipaligoswami&theme=algolia">
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=dipaligoswami&theme=algolia" />
-</p>
+<details>
+<summary><b>🔌 API & Data Validation</b></summary>
 
+- API testing with Postman.
+- SQL queries for basic database validation.
+- Exploring Playwright API automation to connect API checks with UI workflows.
 
+</details>
 
+---
 
-## Connect with me:
+## 📚 Currently Growing In
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dipali-goswami-441525184/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+<div align="center">
 
-</p>
+| Focus Area | What I'm Exploring |
+|:---|:---|
+| **Advanced Playwright** | Robust locators, web-first assertions, parallel execution, cross-browser testing and CI improvements |
+| **Playwright API Testing** | APIRequestContext, authentication, response validation, negative scenarios and UI + API workflows |
+| **AI-Assisted Testing** | AI-assisted test generation, edge-case discovery, locator strategies, failure analysis and test maintenance |
+| **Performance Testing** | Apache JMeter, load and stress testing, performance metrics and bottleneck analysis |
+| **Next on My Roadmap** | Java, Selenium WebDriver and mobile automation |
 
-## ❤ Views and Followers
+</div>
 
-<p align='center'> <img src="https://komarev.com/ghpvc/?username=dipaligoswami&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
+*My goal is to combine strong automation fundamentals with smarter, more efficient testing workflows.*
 
+---
 
-<h2 align='left'>Thank You ❤</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
-</p>	
- 
-<br>
+## 📊 GitHub Overview
+
+<div align="center">
+
+<a href="https://github.com/dipaligoswami">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dipaligoswami&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+</a>
+<a href="https://github.com/dipaligoswami">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipaligoswami&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=dipaligoswami&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 💡 My QA Mindset
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-Understand-1F6FEB?style=for-the-badge" alt="Understand"/>
+<img src="https://img.shields.io/badge/02-Design-8957E5?style=for-the-badge" alt="Design"/>
+<img src="https://img.shields.io/badge/03-Test-238636?style=for-the-badge" alt="Test"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/04-Automate-DB61A2?style=for-the-badge" alt="Automate"/>
+<img src="https://img.shields.io/badge/05-Analyze-D29922?style=for-the-badge" alt="Analyze"/>
+<img src="https://img.shields.io/badge/06-Improve-0E8A9D?style=for-the-badge" alt="Improve"/>
+
+<br/><br/>
+
+*Think critically. Test strategically. Automate thoughtfully. Improve continuously.*
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+Interested in **QA Automation, Playwright, testing strategies or AI-assisted testing**? I'd love to connect, exchange ideas and learn from the testing community.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/dipali-goswami-441525184/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+<a href="mailto:dipagoswami00@gmail.com">
+  <img src="https://img.shields.io/badge/Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
+</a>
+
+<br/><br/>
+
+**Thanks for visiting my profile!** ⭐
+
+</div>
