@@ -124,9 +124,8 @@ I believe good testing goes beyond finding bugs — it's about preventing failur
 |:---|:---|
 | **Advanced Playwright** | Robust locators, web-first assertions, parallel execution, cross-browser testing and CI improvements |
 | **Playwright API Testing** | APIRequestContext, authentication, response validation, negative scenarios and UI + API workflows |
-| **AI-Assisted Testing** | AI-assisted test generation, edge-case discovery, locator strategies, failure analysis and test maintenance |
 | **Performance Testing** | Apache JMeter, load and stress testing, performance metrics and bottleneck analysis |
-| **Next on My Roadmap** | Java, Selenium WebDriver and mobile automation |
+| **Next on My Roadmap** | Java, Selenium WebDriver and mobile automation, AI-Assisted Testing |
 
 </div>
 
