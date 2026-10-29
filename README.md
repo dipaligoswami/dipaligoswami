@@ -85,35 +85,64 @@ I believe good testing goes beyond finding bugs — it's about preventing failur
 </div>
 ## 🚀 What I Work On
 
-<details open>
-<summary><b>🎭 Playwright + TypeScript Automation</b></summary>
+<div align="center">
 
-- Creating and maintaining UI automation tests.
-- Organizing test code with reusable page objects and fixtures.
-- Validating user workflows and application behaviour.
-- Debugging failures using screenshots and traces.
-- Improving test reliability and maintainability.
+### 🎭 Playwright TypeScript Automation Framework
 
-</details>
+**Playwright · TypeScript · POM · Fixtures**
 
-<details>
-<summary><b>🌲 Cypress Automation</b></summary>
+</div>
 
-- Automating web application workflows.
-- Writing assertions and validating UI behaviour.
-- Supporting regression and functional test coverage.
+- Building UI automation tests with reusable components.
+- Organizing test code using the Page Object Model.
+- Implementing reliable locators and web-first assertions.
+- Using screenshots and traces to investigate failures.
+- Improving test configuration and execution workflows.
 
-</details>
+<div align="center">
 
-<details>
-<summary><b>🔌 API & Data Validation</b></summary>
+[Explore My Repositories →](https://github.com/dipaligoswami?tab=repositories)
 
-- API testing with Postman.
-- SQL queries for basic database validation.
-- Exploring Playwright API automation to connect API checks with UI workflows.
+### 🧪 Cypress Test Automation
 
-</details>
+**Cypress · JavaScript / TypeScript**
 
+</div>
+
+- Automating functional and end-to-end scenarios.
+- Validating user interactions and expected application behavior.
+- Writing assertions and reusable test steps.
+- Supporting regression testing and defect verification.
+
+<div align="center">
+
+[Explore My Repositories →](https://github.com/dipaligoswami?tab=repositories)
+
+### 🔌 API Automation with Playwright
+
+**Learning in Progress**
+
+</div>
+
+- Practicing REST API requests using Playwright.
+- Learning response validation, status codes, headers, and response bodies.
+- Exploring authentication and reusable API request contexts.
+- Practicing positive and negative API scenarios.
+- Learning to combine API setup and validation with UI workflows.
+
+<div align="center">
+
+### ⚡ Performance Testing with Apache JMeter
+
+**Learning in Progress**
+
+</div>
+
+- Learning Thread Groups, virtual users, and ramp-up periods.
+- Exploring load, stress, spike, and endurance testing.
+- Understanding response time, throughput, error rate, and percentiles.
+- Practicing timers, assertions, and test data parameterization.
+- Learning performance report analysis and bottleneck investigation.
 ---
 
 ## 📚 Currently Growing In
