@@ -83,15 +83,14 @@ I believe good testing goes beyond finding bugs — it's about preventing failur
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 
 </div>
-## 🚀 What I Work On
 
-<div align="center">
+---
+
+## 🚀 Featured Automation Projects
 
 ### 🎭 Playwright TypeScript Automation Framework
 
 **Playwright · TypeScript · POM · Fixtures**
-
-</div>
 
 - Building UI automation tests with reusable components.
 - Organizing test code using the Page Object Model.
@@ -99,7 +98,6 @@ I believe good testing goes beyond finding bugs — it's about preventing failur
 - Using screenshots and traces to investigate failures.
 - Improving test configuration and execution workflows.
 
-<div align="center">
 
 [Explore My Repositories →](https://github.com/dipaligoswami?tab=repositories)
 
@@ -107,14 +105,12 @@ I believe good testing goes beyond finding bugs — it's about preventing failur
 
 **Cypress · JavaScript / TypeScript**
 
-</div>
 
 - Automating functional and end-to-end scenarios.
 - Validating user interactions and expected application behavior.
 - Writing assertions and reusable test steps.
 - Supporting regression testing and defect verification.
 
-<div align="center">
 
 [Explore My Repositories →](https://github.com/dipaligoswami?tab=repositories)
 
@@ -122,7 +118,6 @@ I believe good testing goes beyond finding bugs — it's about preventing failur
 
 **Learning in Progress**
 
-</div>
 
 - Practicing REST API requests using Playwright.
 - Learning response validation, status codes, headers, and response bodies.
@@ -130,13 +125,11 @@ I believe good testing goes beyond finding bugs — it's about preventing failur
 - Practicing positive and negative API scenarios.
 - Learning to combine API setup and validation with UI workflows.
 
-<div align="center">
 
 ### ⚡ Performance Testing with Apache JMeter
 
 **Learning in Progress**
 
-</div>
 
 - Learning Thread Groups, virtual users, and ramp-up periods.
 - Exploring load, stress, spike, and endurance testing.
@@ -167,9 +160,6 @@ I believe good testing goes beyond finding bugs — it's about preventing failur
 <div align="center">
 
 <a href="https://github.com/dipaligoswami">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dipaligoswami&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-</a>
-<a href="https://github.com/dipaligoswami">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipaligoswami&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </a>
 
@@ -193,8 +183,16 @@ I believe good testing goes beyond finding bugs — it's about preventing failur
 <img src="https://img.shields.io/badge/06-Improve-0E8A9D?style=for-the-badge" alt="Improve"/>
 
 <br/><br/>
+🔍 Understand the Problem → 🧪 Design the Tests → ⚙️ Automate the Workflow
+
+📊 Analyze the Results → 🐛 Find the Root Cause → 🚀 Improve Quality
+
+<br/>
 
 *Think critically. Test strategically. Automate thoughtfully. Improve continuously.*
+
+My goal is to build maintainable automation, investigate defects effectively, and continuously improve software reliability as an SDET.
+
 
 </div>
 
