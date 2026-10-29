@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Dipali Goswami 👋
+# Hi, I'm Dipali 👋
 
 ### SDET | QA Automation Engineer | Playwright & TypeScript
 
