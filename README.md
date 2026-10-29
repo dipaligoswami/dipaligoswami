@@ -159,9 +159,6 @@ I believe good testing goes beyond finding bugs — it's about preventing failur
 <img src="https://img.shields.io/badge/01-Understand-1F6FEB?style=for-the-badge" alt="Understand"/>
 <img src="https://img.shields.io/badge/02-Design-8957E5?style=for-the-badge" alt="Design"/>
 <img src="https://img.shields.io/badge/03-Test-238636?style=for-the-badge" alt="Test"/>
-
-<br/><br/>
-
 <img src="https://img.shields.io/badge/04-Automate-DB61A2?style=for-the-badge" alt="Automate"/>
 <img src="https://img.shields.io/badge/05-Analyze-D29922?style=for-the-badge" alt="Analyze"/>
 <img src="https://img.shields.io/badge/06-Improve-0E8A9D?style=for-the-badge" alt="Improve"/>
